@@ -19,9 +19,13 @@
 
 - Find output of below lines if executed in console.log
 > 6 = '6'
+> 
 > 6 == '6'
+> 
 > 6 === '6'
+> 
 > 4<5<6
+> 
 > 3>2>1
 
 ### Angular
