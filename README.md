@@ -1,15 +1,29 @@
 # FrontEnd-Interview-Questions
 
-## General
+### General
 
 - What are design patterns in Front End?
 
-## HTML
+### HTML
 
-## CSS
+### CSS
 
-## Javascript
+### Javascript
 
-## Angular
+- What is DOM?
+- What is Closure?
+- Write code of any Closure.
+- What is Hoisting?
+
+### Angular
 
 - What are State Management?
+- What is Dependency Injection?
+- What are services?
+- What are Pipes?
+- Write code to create Custom Pipes?
+- What is interpollation?
+- What are different types of databindings?
+- Write code of Component.
+- What is observable?
+- How to transfer data from Component to Component?
