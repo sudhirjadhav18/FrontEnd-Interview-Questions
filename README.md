@@ -15,11 +15,20 @@
 - Write code of any Closure.
 - What is Hoisting?
 
+### Javascript Code
+
+- Find output of below lines if executed in console.log
+> 6 = '6'
+> 6 == '6'
+> 6 === '6'
+> 4<5<6
+> 3>2>1
+
 ### Angular
 
 - What are State Management?
 - What is Dependency Injection?
-- What are services?
+- What are Services?
 - What are Pipes?
 - Write code to create Custom Pipes?
 - What is interpollation?
