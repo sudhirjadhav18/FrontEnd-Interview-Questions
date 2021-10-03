@@ -30,6 +30,7 @@
 
 ### Angular
 
+- What are differences in different versions of Angular?
 - What are State Management?
 - What is Dependency Injection?
 - What are Services?
