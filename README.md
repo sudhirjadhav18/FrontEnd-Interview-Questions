@@ -6,9 +6,13 @@
 
 ### HTML
 
+- How to make *div* horizontally centered align.
+- What are web storage?
+
 ### CSS
 
-- What is difference between *display:block* and *display: inline-block*
+- What is difference between *display:block* and *display: inline-block*?
+- What is Pseudo-class?
 
 ### Javascript
 
