@@ -54,3 +54,4 @@
 - Write code of Component.
 - What is observable?
 - How to transfer data from Component to Component?
+- Can we pass data using router?
