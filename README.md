@@ -8,12 +8,16 @@
 
 ### CSS
 
+- What is difference between *display:block* and *display: inline-block*
+
 ### Javascript
 
 - What is DOM?
 - What is Closure?
 - Write code of any Closure.
 - What is Hoisting?
+- What is undeclared, undefined and null?
+- What is difference between *var, let* and *const*
 
 ### Javascript Code
 
@@ -27,6 +31,11 @@
 > 4<5<6
 > 
 > 3>2>1
+
+- Write function definition for following calls
+> Sum(3, 4);
+> 
+> Sum(3)(4);
 
 ### Angular
 
