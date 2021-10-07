@@ -236,7 +236,17 @@ Additionally, `NavigationExtras` has a new public API called `state` which is an
 - Write code to create Custom Pipes?
 - What is interpollation?
 - What are different types of databindings?
+ 
+ Interpolation.<br>
+Property binding.<br>
+Class binding.<br>
+Style binding.<br>
+Attribute binding.<br>
+Event binding.<br>
+Two-way binding.
+ 
 - Write code of Component.
 - What is observable?
 - How to transfer data from Component to Component?
 - Can we pass data using router?
+- What are Lifecycle hooks?
