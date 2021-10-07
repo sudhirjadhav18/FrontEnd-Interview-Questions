@@ -6,7 +6,7 @@
 
 ### HTML
 
-- How to make *div* horizontally centered align.
+- How to make *div* horizontally centered align?
 - What are web storage?
 
 ### CSS
