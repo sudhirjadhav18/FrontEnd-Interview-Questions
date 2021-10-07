@@ -30,7 +30,16 @@ In a factory pattern, we can abstract the common behavior among the vehicles lik
 
 ### CSS
 
-- What is difference between *display:block* and *display: inline-block*?
+- What is difference between *display:block*, *display:inline* and *display: inline-block*?
+
+**block:** Displays an element as a block element. It starts on a new line and takes up the whole width.<br>
+block elements: `div, h1, p, li, section`
+
+**inline:** Displays an element as an inline element. Any height and width properties will have no effect.<br>
+inline elements: `span, a, img`
+
+**inline-block:** Displays an element as an inline-level block container. You CAN set height and width values.<br>
+
 - What is Pseudo-class?
 
 ### Javascript
