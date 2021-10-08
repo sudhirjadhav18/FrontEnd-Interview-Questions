@@ -91,6 +91,7 @@ function Sum(a){
 
 - What are State Management?
 - What is Dependency Injection?
+- What is Directives?
 - What are Services?
 - What are Pipes, Pure Pipes, Async Pipes?
 - Write code to create Custom Pipes?
@@ -111,3 +112,18 @@ Two-way binding.
 - How to transfer data from Component to Component?
 - Can we pass data using router?
 - What are Lifecycle hooks?
+- What is router states?
+
+RouterState is a tree of activated routes. Every node in this tree knows about the "consumed" URL segments, the extracted parameters, and the resolved data. You can access the current RouterState from anywhere in the application using the Router service and the RouterState property as below.
+`
+@Component({templateUrl:'template.html'})
+class MyComponent {
+  constructor(router: Router) {
+    const state: RouterState = router.routerState;
+    const root: ActivatedRoute = state.root;
+    const child = root.firstChild;
+    const id: Observable<string> = child.params.map(p => p.id);
+    //...
+ }
+}
+`
