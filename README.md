@@ -42,6 +42,15 @@ inline elements: `span, a, img`
 
 - What is Pseudo-class?
 
+Pseudo-class `:hover, :active, ` 
+Pseudo-element `::first-letter, ::first-line`
+
+- How to convert square div to circle?
+
+border-radius: 50%;
+
+- What is z-index and why it is used?
+
 ### Javascript
 
 - What is DOM?
@@ -49,7 +58,14 @@ inline elements: `span, a, img`
 - Write code of any Closure.
 - What is Hoisting?
 - What is undeclared, undefined and null?
-- What is difference between *var, let* and *const*
+- What is difference between *var, let* and *const*?
+- What is deep copy and shall copy?
+- What is event bubbling?
+- What is difference between array splice and slice?
+- What is event loop in javascript?
+
+The event loop facilitates this process; it constantly checks whether or not the call stack is empty. If it is empty, new functions are added from the event queue. If it is not, then the current function call is processed.
+
 
 ### Javascript Code
 
