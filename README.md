@@ -113,11 +113,7 @@ function Sum(a){
 - Write code to create Custom Pipes?
 - What is interpollation?
 - What are different types of databindings?
-<<<<<<< HEAD
-- How change detection cycle triggers in Angular?...
-=======
-- How change detection cycle triggers in Angular???
->>>>>>> 70961d479ddfc1d395bbba6b2e86ef79caca7fbb
+- How change detection cycle triggers in Angular?
  
 Interpolation.<br>
 Property binding.<br>
