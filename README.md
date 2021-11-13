@@ -59,7 +59,7 @@ border-radius: 50%;
 - What is Hoisting?
 - What is undeclared, undefined and null?
 - What is difference between *var, let* and *const*?
-- What is deep copy and shall copy?
+- What is deep copy and shallow copy?
 - What is event bubbling?
 - What is difference between array splice and slice?
 - What is event loop in javascript?
