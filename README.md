@@ -61,6 +61,7 @@ border-radius: 50%;
 - What is difference between *var, let* and *const*?
 - What is deep copy and shallow copy?
 - What is event bubbling?
+- What is callback hell problem?
 - What is difference between array splice and slice?
 - What is event loop in javascript?
 
@@ -113,6 +114,7 @@ function Sum(a){
 - Write code to create Custom Pipes?
 - What is interpollation?
 - What are different types of databindings?
+- What is component harnessing?
 - How change detection cycle triggers in Angular?
  
 Interpolation.<br>
