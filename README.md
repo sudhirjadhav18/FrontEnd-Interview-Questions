@@ -63,6 +63,7 @@ border-radius: 50%;
 - What is event bubbling?
 - What is callback hell problem?
 - What is difference between array splice and slice?
+- Javascript is single threaded or multi-threaded? 
 - What is event loop in javascript?
 
 The event loop facilitates this process; it constantly checks whether or not the call stack is empty. If it is empty, new functions are added from the event queue. If it is not, then the current function call is processed.
@@ -115,6 +116,8 @@ function Sum(a){
 - What is interpollation?
 - What are different types of databindings?
 - What is component harnessing?
+- What is tree shaking?
+- What is Interceptor?
 - How change detection cycle triggers in Angular?
  
 Interpolation.<br>
