@@ -73,15 +73,15 @@ The event loop facilitates this process; it constantly checks whether or not the
 
 - Find output of below lines if executed in console.log
 
-` 6 = "6" `
+` 6 = "6" ` - Error
 
-` 6 == "6" `
+` 6 == "6" ` - True
  
-` 6 === "6" `
+` 6 === "6" ` - False
  
-` 4<5<6 `
+` 4<5<6 ` - True
  
-` 3>2>1 `
+` 3>2>1 ` - False
 
 - Write function definition for following calls
 
